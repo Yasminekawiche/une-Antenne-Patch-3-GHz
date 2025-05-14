@@ -17,7 +17,10 @@ Quelques spécifications de l’antenne :
 - Méthode d’alimentation : Micro-ruban
 - Fréquence de fonctionnement : 3 Ghz
 - Impédance : 50 ohms
-  
+
+Voici une image de l’antenne réellement fabriquée lors de ce projet :
+![Antenne Patch 3 GHz](./antenne.png)
+
 Pour analyser le rayonnement de l'antenne, deux méthodes ont été utilisées :
 - Gyroscanfield : Permet une visualisation en 2D et 3D du diagramme de rayonnement, bien que limitée par la fréquence de résonance à 3 GHz.
 - Banc de Mesure Spécifique :
